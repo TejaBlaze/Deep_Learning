@@ -1,0 +1,3 @@
+List of implementations:
+1)On Iris data set
+2)Approximate a one-one mapped function
