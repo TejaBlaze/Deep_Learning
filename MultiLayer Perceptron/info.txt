@@ -1,1 +1,3 @@
-"Programs on MLPN"
+List of implementations:
+1)On Iris dataset
+2)On seeds-dataset
