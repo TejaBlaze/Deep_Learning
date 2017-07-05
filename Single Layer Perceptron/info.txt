@@ -1,1 +1,4 @@
-"Programs on SLPN"
+List of implementations:
+1)On hypothetical integer data set
+2)On Iris data set
+3)On OR/AND logical operations
