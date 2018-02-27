@@ -2,3 +2,4 @@ SLPN applied to
 1)AND
 2)OR
 3)NOT
+4)XOR - not linearly separable, can not be classified by SLPN.
