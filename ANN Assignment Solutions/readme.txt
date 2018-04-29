@@ -1,5 +1,5 @@
 Artificial Neural Networks(IS664) Course problems solutions.
------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------
 1) Exploring the Single Layer Perceptron for classifying logical AND, OR and NOT for 2 inputs (1 for NOT). Uses Sigmoid activation function.
 
 2) Applying Principal Component Analysis(PCA) to a high dimensional data for dimensionality reduction and comparing the performance by applying a classifier.
